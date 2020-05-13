@@ -1,0 +1,16 @@
+{
+  "name": "formula",
+  "version": "1.0.0",
+  "description": "Allows Airtable forms to be completed via Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Tomanelli",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0",
+    "slack": "^11.0.2"
+  }
+}
