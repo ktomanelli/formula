@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "airtable": "^0.8.1",
+    "airtable-schema": "github:ktomanelli/airtable-schema",
     "dotenv": "^8.2.0",
     "slack": "^11.0.2"
   }
